@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a beginner software developer in the Tech Elevator program.
 
 <!--
 **rainavincelli/rainavincelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
